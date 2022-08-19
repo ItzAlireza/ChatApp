@@ -1,7 +1,7 @@
 # Simple Chat App
 
 This is a simple chat application with one main room to chat on.
-Project is currently live on [Beta.steamapps.ir](http://beta.steamapps.ir/)
+Project is currently live on [Beta.steamapps.ir](http://beta.steamapps.ir/) *Use "itsalirezadev@gmail.com":"Test1234" for testing*
 
 ## Description
 NOTE:This app was made for mobile users, so if you want to review it on computer screens, you need to adjust your browser to a proper mobile size for this app to work.
